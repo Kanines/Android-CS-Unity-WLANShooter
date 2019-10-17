@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1bdc830deeaad5e44ba8b285b000bf1c
+timeCreated: 1515188208
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
